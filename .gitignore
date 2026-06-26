@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Windows NTFS Mark of the Web (hasil copas dari Windows ke WSL)
+*:Zone.Identifier
+
+# Draft / sementara
+draft/
+*.tmp
