@@ -41,7 +41,7 @@ Field pendukung lain di Sysmon Event 1 yang memperkuat verdict: `Hashes` (bisa d
 
 ---
 
-## LOLBin: Hidup dari Tanah Sendiri
+## LOLBin: Living off the Land
 
 Living off the Land (LotL) adalah strategi memakai tool sah bawaan Windows agar aktivitas tidak mencurigakan. Binary semacam ini disebut LOLBin (Living-off-the-land binaries). Karena mereka ditandatangani Microsoft dan memang ada di setiap Windows, antivirus cenderung mengabaikannya. Beberapa yang paling sering disalahgunakan:
 
